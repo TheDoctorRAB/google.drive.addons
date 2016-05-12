@@ -1,4 +1,4 @@
-/**
+u/**
  * The onOpen function runs automatically when the Google Docs document is
  * opened. Use it to add custom menus to Google Docs that allow the user to run
  * custom scripts. For more information, please consult the following two
